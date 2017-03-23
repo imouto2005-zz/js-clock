@@ -1,0 +1,20 @@
+#clock {
+  /*position:absolute;*/
+}
+
+#clock img {
+  position: absolute;
+}
+
+#hour {
+  /*position: absolute;*/
+  transition: 0.5;
+}
+
+#minute {
+  /*position: absolute;*/
+}
+
+#second {
+  /*position: absolute;*/
+}
